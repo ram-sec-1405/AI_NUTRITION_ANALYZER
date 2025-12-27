@@ -1,17 +1,20 @@
-## Title of the Project
-# AI NUTRITION ANALYZER
+# Title of the Project
+## AI NUTRITION ANALYZER
+# NAME:RAMPRASATH.R
+# REG NO:212223220086
+# TEAM NO:302
 
-## About
+# About
 The AI Nutrition Analyzer is a smart system designed to analyze food consumption and provide nutritional information using Artificial Intelligence.
 
-## Features
+# Features
 ● Uses advanced AI models for higher food recognition accuracy.
 ● Reduces manual food logging through automated image-based analysis.
 ● Provides real-time nutritional information and feedback.
 ● Supports personalized diet recommendations based on user goals.
 ● Improves user engagement and long-term adherence to healthy eating habits. 
 
-## Requirements
+# Requirements
 ● Processor : Qualcomm Snapdragon / Intel Core i3 or higher
 ● Hard Disk : Minimum 20 GB free storage
 ● RAM : 4 GB (minimum)
@@ -20,13 +23,13 @@ The AI Nutrition Analyzer is a smart system designed to analyze food consumption
 ● Operating System : Android 7.0 (Nougat) and above
 ● Programming Language : Kotlin
 
-## System Architecture:
+# System Architecture:
 ![6](https://github.com/user-attachments/assets/20e3ae9b-138a-42d1-b511-98d247da2f93)
 
 
 
 
-## Output
+# Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - HOME PAGE
