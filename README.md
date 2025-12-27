@@ -1,8 +1,8 @@
 # Title of the Project
 ## AI NUTRITION ANALYZER
-# NAME:RAMPRASATH.R
-# REG NO:212223220086
-# TEAM NO:302
+### NAME:RAMPRASATH.R
+### REG NO:212223220086
+### TEAM NO:302
 
 # About
 The AI Nutrition Analyzer is a smart system designed to analyze food consumption and provide nutritional information using Artificial Intelligence.
